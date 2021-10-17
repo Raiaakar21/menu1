@@ -116,3 +116,6 @@ input[type="checkbox"]{
 div .row{
   text-align: center;
 }
+div .row p{
+  text-align: justify;
+}
